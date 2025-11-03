@@ -13,13 +13,13 @@
 5. **Decision Focused Causal Learning for Direct Counterfactual Marketing Optimization** KDD, 2024. [paper](https://arxiv.org/abs/2407.13664), [code](https://github.com/blackhaocs/Decision-Based-CausalML)
     *Hao Zhou, Rongxiao Huang, Shaoming Li, Guibin Jiang, Jiaqi Zheng, Bing Cheng, Wei Lin*
 6. **Direct Heterogeneous Causal Learning for Resource Allocation Problems in Marketing**AAAI, 2023. [paper](https://arxiv.org/abs/2211.15728), [code](https://github.com/blackhaocs/Decision-Based-CausalML)
-    * Hao Zhou, Shaoming Li, Guibin Jiang, Jiaqi Zheng, and Dong Wang*
+    *Hao Zhou, Shaoming Li, Guibin Jiang, Jiaqi Zheng, and Dong Wang*
 7. **Bi-Level Decision-Focused Causal Learning for Large-Scale Marketing Optimization: Bridging Observational and Experimental Data** NIPS, 2025. [paper](https://arxiv.org/pdf/2510.19517), [code](https://github.com/blackhaocs/Decision-Based-CausalML)
-    * Shuli Zhang Hao Zhou Jiaqi Zheng Guibin Jiang Bing Cheng Wei Lin Guihai Chen*
+    *Shuli Zhang Hao Zhou Jiaqi Zheng Guibin Jiang Bing Cheng Wei Lin Guihai Chen*
 ### [Decision Transformer](#content)
 1.**Decision Transformer: Reinforcement Learning via Sequence Modeling** SIGIR 2025. [paper](https://arxiv.org/abs/2106.01345), [code](https://github.com/kzl/decision-transformer)
-    * Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee,*
+    *Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee,*
 
 2. **Generative Auto-Bidding with Value-Guided Explorations** SIGIR 2025. [paper](https://arxiv.org/abs/2504.14587), [code](https://github.com/Applied-Machine-Learning-Lab/GAVE)
-    * Gao, Jingtong and Li, Yewen and Mao*
+    *Gao, Jingtong and Li, Yewen and Mao*
 
