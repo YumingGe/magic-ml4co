@@ -20,6 +20,6 @@
 1.**Decision Transformer: Reinforcement Learning via Sequence Modeling** SIGIR 2025. [paper](https://arxiv.org/abs/2106.01345), [code](https://github.com/kzl/decision-transformer)
     *Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee,*
 
-2. **Generative Auto-Bidding with Value-Guided Explorations** SIGIR 2025. [paper](https://arxiv.org/abs/2504.14587), [code](https://github.com/Applied-Machine-Learning-Lab/GAVE)
+2.**Generative Auto-Bidding with Value-Guided Explorations** SIGIR 2025. [paper](https://arxiv.org/abs/2504.14587), [code](https://github.com/Applied-Machine-Learning-Lab/GAVE)
     *Gao, Jingtong and Li, Yewen and Mao*
 
